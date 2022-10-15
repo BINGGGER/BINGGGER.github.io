@@ -1,0 +1,21 @@
+.about-content { 
+	margin:  auto;
+	padding-top: 0px;
+} 
+.about-content p{
+	margin-top: 80px;
+	text-align: center;
+	line-height: 30px;
+    font-size: 30px;
+    font-weight: 500;
+	margin-bottom: 80px;
+}
+.about-content table{
+	margin: 0 auto;
+	text-align:left;
+	font-size: x-large;
+	width: 400;
+	height: 400;
+
+}
+

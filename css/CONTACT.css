@@ -1,0 +1,21 @@
+
+.contact-content p{
+    margin-top: 80px;
+	text-align: center;
+	line-height: 30px;
+    font-size: 30px;
+    font-weight: 500;
+
+    
+}
+
+.contact-content table{
+    font-size: larger;
+    border-style:inherit;
+    margin:  auto;
+	text-align: center;
+	line-height: 70px;
+    border-collapse: collapse;
+    margin-top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

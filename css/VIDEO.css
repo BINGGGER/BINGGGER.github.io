@@ -1,0 +1,13 @@
+.video-content{
+	width: 1300px;
+	margin: 0 auto;
+	padding-top: 100px;
+}
+.video-content table{
+	margin: 0 auto;
+	
+}
+.video-content table p{
+	font-size: x-large;
+	font-family: 'Times New Roman', Times, serif;
+}
